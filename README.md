@@ -26,3 +26,12 @@ Emoj示例：
 删除” from win11toast import notify”;
 替换” notify('女孩的消息','座位满了，没位置了！我也不想挨着长得不帅的男孩。看来我只能站着了')”和“notify('系统', '所有座位已坐满')“你喜欢的消息输出模式。
 
+截图:
+
+![1](https://github.com/user-attachments/assets/763a80a1-54a8-4a87-8683-b7418060cc4b)
+
+![2](https://github.com/user-attachments/assets/7a963e74-3624-461b-a02c-fcba5c7b296b)
+
+![3](https://github.com/user-attachments/assets/6c2d992b-cc31-4d85-8e45-7c732d3b383b)
+
+![4](https://github.com/user-attachments/assets/0e9254cb-7dd2-499d-ba87-2ced2f43039d)
